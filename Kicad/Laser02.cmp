@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = ven. 18 avril 2014 10:51:38 CEST
+
+BeginCmp
+TimeStamp = /534B94D6;
+Reference = 5V1;
+ValeurCmp = 7805;
+IdModule  = TO220v2;
+EndCmp
+
+BeginCmp
+TimeStamp = /528E3D7E;
+Reference = 16MHz1;
+ValeurCmp = CRYSTAL;
+IdModule  = HC-18UV;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B863D;
+Reference = Batterie1;
+ValeurCmp = Batterie;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B90EB;
+Reference = BPGachette1;
+ValeurCmp = BPGachette;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B916B;
+Reference = BPRechChargeur1;
+ValeurCmp = BPRechChargeur;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B916F;
+Reference = BPRechGliss1;
+ValeurCmp = BPRechGliss;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B9012;
+Reference = Buzzer1;
+ValeurCmp = Buzzer;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /529FA394;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /528E3D58;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BAAAE;
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BAAB2;
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BAD41;
+Reference = CarteRC1;
+ValeurCmp = CarteRC;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534E6FC3;
+Reference = Cdec1;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534E7005;
+Reference = Cdec2;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534F12B1;
+Reference = Cdec3;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B9560;
+Reference = Cin1;
+ValeurCmp = 0.33u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B955C;
+Reference = Cout1;
+ValeurCmp = 0.1u;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /528E3D2A;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BAAAD;
+Reference = IC2;
+ValeurCmp = ATMEGA328-P;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8545;
+Reference = Laser1;
+ValeurCmp = Laser;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8BC7;
+Reference = LCD1;
+ValeurCmp = ConnLCD;
+IdModule  = SIL-18;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B863B;
+Reference = MoteurLaser1;
+ValeurCmp = MoteurLaser;
+IdModule  = bornier2-0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B86D7;
+Reference = Q1;
+ValeurCmp = Tmoteurs;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /534A7098;
+Reference = Q2;
+ValeurCmp = Tlaser;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8C60;
+Reference = Ralim1;
+ValeurCmp = 12k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B89F2;
+Reference = Rb1;
+ValeurCmp = 3.9k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8898;
+Reference = Rb2;
+ValeurCmp = 680;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8701;
+Reference = Rb3;
+ValeurCmp = 2.2k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B890C;
+Reference = Rc1;
+ValeurCmp = 33;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8A3E;
+Reference = Re1;
+ValeurCmp = 120;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B913D;
+Reference = Rgachette1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B8C61;
+Reference = Rmasse1;
+ValeurCmp = 3k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B9172;
+Reference = RRechChargeur1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B9175;
+Reference = RRechGliss1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BA253;
+Reference = RsetupTension1;
+ValeurCmp = 300k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BB24C;
+Reference = SWJourNuit1;
+ValeurCmp = SWJourNuit;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534C4187;
+Reference = SWTir1;
+ValeurCmp = SWTir;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /534BAAB1;
+Reference = U1;
+ValeurCmp = CRYSTAL;
+IdModule  = HC-18UV;
+EndCmp
+
+BeginCmp
+TimeStamp = /534B96FE;
+Reference = USB1;
+ValeurCmp = USB;
+IdModule  = bornier3;
+EndCmp
+
+EndListe
